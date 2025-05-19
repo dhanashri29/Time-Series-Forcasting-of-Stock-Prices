@@ -1,0 +1,9 @@
+yfinance
+pmdarima
+prophet
+statsmodels
+plotly
+seaborn
+numpy
+pandas
+scikit-learn
